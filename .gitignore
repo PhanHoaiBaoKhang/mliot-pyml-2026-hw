@@ -31,3 +31,6 @@ checkpoints/
 Thumbs.db
 .vscode/
 .idea/
+week06/Homework_11/spaceship-titanic/catboost_info/catboost_training.json
+week06/Homework_11/spaceship-titanic/catboost_info/learn/events.out.tfevents
+week06/Homework_11/spaceship-titanic/catboost_info/test/events.out.tfevents
